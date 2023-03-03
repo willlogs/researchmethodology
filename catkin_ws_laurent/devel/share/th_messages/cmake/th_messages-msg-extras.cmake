@@ -1,0 +1,2 @@
+set(th_messages_MESSAGE_FILES "/home/will/dev/tactile/catkin_ws_laurent/src/th_messages/msg/raw_imu.msg;/home/will/dev/tactile/catkin_ws_laurent/src/th_messages/msg/raw_barometer.msg;/home/will/dev/tactile/catkin_ws_laurent/src/th_messages/msg/raw_imu2.msg;/home/will/dev/tactile/catkin_ws_laurent/src/th_messages/msg/raw_barometer2.msg;/home/will/dev/tactile/catkin_ws_laurent/src/th_messages/msg/raw_elastometer.msg")
+set(th_messages_SERVICE_FILES "")

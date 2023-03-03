@@ -1,0 +1,8 @@
+prefix=/home/will/dev/tactile/catkin_ws_laurent/install
+
+Name: th_messages
+Description: Description of th_messages
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

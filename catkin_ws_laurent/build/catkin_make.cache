@@ -1,0 +1,2 @@
+bioin_tacto:markers:sensor:th_messages
+-DCATKIN_DEVEL_PREFIX=/home/will/dev/tactile/catkin_ws_laurent/devel -DCMAKE_INSTALL_PREFIX=/home/will/dev/tactile/catkin_ws_laurent/install -G Unix Makefiles

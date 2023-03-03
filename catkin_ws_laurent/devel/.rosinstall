@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/will/dev/tactile/catkin_ws_laurent/devel/setup.sh
